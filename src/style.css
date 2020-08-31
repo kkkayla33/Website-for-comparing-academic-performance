@@ -1,0 +1,68 @@
+
+#navbarSupportedContent{
+    background:#4da6ff; 
+    height:5rem;
+}
+
+.title{
+    float: left;
+    padding:150px 5px;
+}
+
+.title h1{
+    font-size: 50px;
+    color: #1994e6;
+}
+
+.homeButton{
+    border: 2px solid #1994e6;
+    border-radius: 8px;
+    padding: 10px 24px;
+    color: #1994e6;
+}
+
+.homeButton:hover{
+    background-color: #1994e6;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-tabs a, .nav-pills a {
+    color: #1994e6;
+}
+
+.navbar .nav-pills .nav-link:hover {
+    background-color: #ccebff;
+  }
+
+.navbar .nav-pills .nav-link.active {
+    background-color: #4da6ff; 
+    color: #ffffff;
+}
+
+.homeMain{
+    background-color: #e6f2ff; 
+    height:85%
+}
+
+.shortcut{
+    padding:50px;
+}
+
+.shortcut h2{
+    color:#1994e6;
+}
+
+table{
+    border: 1px solid #cccccc; 
+    width: 100%;
+    background-color: white;
+}
+th{
+    color:#1994e6;
+}
+th,tr,td{
+    height: 15px;
+    padding: 10px;
+}
+
